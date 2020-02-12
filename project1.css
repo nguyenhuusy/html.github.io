@@ -424,12 +424,12 @@ font-size: 25px;
 }
 .better-ways-left:hover .better-ways-left-text3 {
     font-size: 19px;
-    left: 442px;
-    top:171px;
+    left: 294px;
+    top:263px;
     opacity: 1;
 }
 .better-ways-left:hover .better-ways-left-text3::before {
-    right: -296px;
+    right: -251px;
     bottom: -353px;
     opacity: 1;
 }
