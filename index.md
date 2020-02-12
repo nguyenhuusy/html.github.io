@@ -157,9 +157,7 @@
                 </ul>
             </nav>
             <div class="section-heading-2-image">
-                <img class="section-heading-2-image-item item1"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg"
-                    width=250px height="187.5" alt="#" />
+                <img class="section-heading-2-image-item item1" src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg" width=250px height="187.5" alt="#" />
                 <img class="section-heading-2-image-item item2"
                     src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g2.jpg"
                     width=250px height="187.5" alt="#" />
