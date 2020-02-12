@@ -160,51 +160,36 @@
                 <img class="section-heading-2-image-item item1" alt="#" width="250px" height="187.5"
                 src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg" />
                 
-                <img class="section-heading-2-image-item item2" width=250px height="187.5" alt="#"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g2.jpg"
-                     />
+                
+                     <img class="section-heading-2-image-item item2" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g2.jpg" />
                      <img class="section-heading-2-image-item item3" alt="#" width="250px" height="187.5"
                 src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g3.jpg" />
-                
-                <img class="section-heading-2-image-item item3"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g3.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item4"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g4.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item5"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g5.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item6"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g6.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item7"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g7.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item8"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g8.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item9"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g9.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item10"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g10.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item11"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g11.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item12"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g12.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item13"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g10.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item14"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg"
-                    width=250px height="187.5" alt="#" />
-                <img class="section-heading-2-image-item item15"
-                    src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g3.jpg"
-                    width=250px height="187.5" alt="#" />
+                <img class="section-heading-2-image-item item4" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g4.jpg" />
+                <img class="section-heading-2-image-item item5" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g5.jpg" />
+                <img class="section-heading-2-image-item item6" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g6.jpg" />
+                <img class="section-heading-2-image-item item7" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g7.jpg" />
+                <img class="section-heading-2-image-item item8" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g8.jpg" />
+                <img class="section-heading-2-image-item item9" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g9.jpg" />
+                <img class="section-heading-2-image-item item10" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g10.jpg" />
+                <img class="section-heading-2-image-item item11" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g11.jpg" />
+                <img class="section-heading-2-image-item item12" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g12.jpg" />
+                <img class="section-heading-2-image-item item13" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g10.jpg" />
+                <img class="section-heading-2-image-item item14" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg" />
+                <img class="section-heading-2-image-item item15" alt="#" width="250px" height="187.5"
+                src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g3.jpg" />
+               
             </div>
 
         </div>
