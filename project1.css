@@ -65,7 +65,7 @@ ul {
 }
 
 .header-between-text {
-    color: white;
+    color: white !important;
     font-family: sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
