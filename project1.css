@@ -231,7 +231,7 @@ ul {
 .section-heading-2-image {
     display: flex;
     flex-wrap: wrap;
-    width: 80%;
+    width: 100%;
     padding-left: 20px;
 }
 .section-heading-2-image-item {
@@ -394,8 +394,8 @@ font-size: 25px;
     color: white;
     text-transform: uppercase;
     font-size: 15px;
-    left: 461px;
-    top: 212px;
+    right: 0;
+    bottom: 0;
     opacity:0;
     padding-top: 27px;
     padding-left: 44px;
