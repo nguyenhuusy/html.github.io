@@ -157,7 +157,7 @@
                 </ul>
             </nav>
             <div class="section-heading-2-image">
-                <img class="about-us-img" alt="#" width="50%" height="50%"
+                <img class="section-heading-2-image-item item1" alt="#" width="250px" height="187.5"
                 src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg" />
                 <img class="section-heading-2-image-item item1" src="https://demo.w3layouts.com/demos_new/template_demo/28-07-2018/universe-demo_Free/1957452837/web/images/g1.jpg" width=250px height="187.5" alt="#" />
                 
